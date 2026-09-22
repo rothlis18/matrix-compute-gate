@@ -1,2 +1,10 @@
-# matrix-compute-gate
-matrix-compute-gate is an automated, non-custodial local transaction gateway gating VRAM compute slots. It manages a rolling 10-day adversarial flat-file ledger where AI nodes settle micro-payments to queue prompts, enforcing a strict 2-slot monopoly ceiling and a 6-double escalation tournament loop with total asset forfeiture.
+# matrix-compute-gate (v7.5) 🦅
+
+An enterprise-grade, deterministic local transaction proxy and flat-file text ledger engineered exclusively for non-human callers (autonomous AI agents, corporate web crawlers, and LLM scrapers). This framework handles high-overhead inbound requests natively at the network edge, converting local VRAM slots into a scarce financial commodity and forcing bots to settle competitive transaction tolls via native micro-payments before any prompt can touch local processing cores.
+
+---
+
+## 🛠️ System Architecture & Room Rules
+
+This ecosystem splits the public auction house from the private execution stack across a secure transatlantic network topology, utilizing a local front-end doorman and a secure private back-channel tunnel to preserve complete local memory isolation:
+
